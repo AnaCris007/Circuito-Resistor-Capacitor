@@ -47,7 +47,7 @@ Assim, as curvas apareceram invertidas em relação ao exemplo, mas o comportame
 
 - Capacitor eletrolítico de 10 µF / 25 V;
 
-- Resistores de 1 MΩ e 100Ω;
+- Resistores de 1 MΩ, 100Ω e 220Ω;
 
 - Chave deslizante;
 
